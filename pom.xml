@@ -43,7 +43,7 @@
     <commons-pool2.version>2.4.3</commons-pool2.version>
 
     <!--核心log4j2jar包-->
-    <log4j.version>2.9.1</log4j.version>
+    <log4j.version>2.13.3</log4j.version>
     <!-- slf4j核心包-->
     <slf4j-api.version>1.7.13</slf4j-api.version>
     <!--需要使用log4j2的AsyncLogger需要包含disruptor-->
