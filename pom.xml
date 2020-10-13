@@ -33,7 +33,7 @@
     <!--3) spring整合mybatis与spring整合 -->
     <mybatis-spring.version>1.3.1</mybatis-spring.version>
     <!-- junit单元测试依赖  -->
-    <junit.version>4.12</junit.version>
+    <junit.version>4.13.1</junit.version>
     <!--  Java Servlet API * -->
     <servlet-api.version>4.0.0</servlet-api.version>
     <!--* Mysql JDBC驱动 * -->
