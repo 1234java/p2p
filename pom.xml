@@ -37,7 +37,7 @@
     <!--  Java Servlet API * -->
     <servlet-api.version>4.0.0</servlet-api.version>
     <!--* Mysql JDBC驱动 * -->
-    <mysql-connector-java.version>5.1.44</mysql-connector-java.version>
+    <mysql-connector-java.version>8.0.28</mysql-connector-java.version>
     <!--dbcp2连接池依赖-->
     <commons-dbcp2.version>2.1.1</commons-dbcp2.version>
     <commons-pool2.version>2.4.3</commons-pool2.version>
@@ -403,7 +403,7 @@ JDBC驱动 ********************** -->
             <dependency>
               <groupId>mysql</groupId>
               <artifactId>mysql-connector-java</artifactId>
-              <version>5.1.44</version>
+              <version>8.0.28</version>
             </dependency>
           </dependencies>
           <configuration>
